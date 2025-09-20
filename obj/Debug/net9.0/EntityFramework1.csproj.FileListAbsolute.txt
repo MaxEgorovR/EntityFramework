@@ -1,0 +1,5 @@
+C:\Users\maxon\source\repos\EntityFramework1\obj\Debug\net9.0\EntityFramework1.csproj.AssemblyReference.cache
+C:\Users\maxon\source\repos\EntityFramework1\obj\Debug\net9.0\EntityFramework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxon\source\repos\EntityFramework1\obj\Debug\net9.0\EntityFramework1.AssemblyInfoInputs.cache
+C:\Users\maxon\source\repos\EntityFramework1\obj\Debug\net9.0\EntityFramework1.AssemblyInfo.cs
+C:\Users\maxon\source\repos\EntityFramework1\obj\Debug\net9.0\EntityFramework1.csproj.CoreCompileInputs.cache
