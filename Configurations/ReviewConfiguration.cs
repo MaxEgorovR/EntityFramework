@@ -33,12 +33,14 @@ namespace EntityFramework1.Configurations
             builder.HasOne(r => r.Course)
                 .WithMany(c => c.Reviews)
                 .HasPrincipalKey(c => c.Id)
-                .HasForeignKey(r => r.CourseId);
+                .HasForeignKey(r => r.CourseId)
+                .OnDelete(DeleteBehavior.NoAction);
 
             builder.HasOne(r => r.Student)
                 .WithMany(s => s.Reviews)
                 .HasPrincipalKey(s => s.Id)
-                .HasForeignKey(r => r.StudentId);
+                .HasForeignKey(r => r.StudentId)
+                .OnDelete(DeleteBehavior.NoAction);
         }
     }
 }
