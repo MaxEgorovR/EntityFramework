@@ -3,16 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927170354_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250927170354_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:repositories\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927170315_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250927170315_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\repositories\\rreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:repositories\\rreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20251004210903_NewMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251004210903_NewMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20251004210947_NewMigration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251004210947_NewMigration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20251004210745_NewMigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251004210745_NewMigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxon\\AppData\\Local\\Temp\\47fd8883-98fd-477a-aeb1-c85e38d8140c_ConsoleApp1.zip.40c\\ConsoleApp1\\ConsoleApp1\\Repositories\\DishRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\migrations\\20250927170354_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:migrations\\20250927170354_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927170315_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250927170315_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927165928_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,28 +90,12 @@
       "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:online\u0441oursescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927164516_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250927164516_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927164646_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250927164646_InitialCreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|c:\\users\\maxon\\source\\repos\\entityframework1\\migrations\\20250927164516_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6229CAB-99AE-4C21-918D-7B20CCB25CFC}|EntityFramework1.csproj|solutionrelative:migrations\\20250927164516_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,6 +110,188 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Repositories\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Repositories\\TeacherRepository.cs",
+              "RelativeToolTip": "Repositories\\TeacherRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T20:46:48.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RreviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Repositories\\RreviewRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\RreviewRepository.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Repositories\\RreviewRepository.cs",
+              "RelativeToolTip": "Repositories\\RreviewRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T20:44:59.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Review.cs",
+              "RelativeToolTip": "Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:08:31.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T20:44:26.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Course.cs",
+              "RelativeToolTip": "Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:09:23.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T20:46:33.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Student.cs",
+              "RelativeToolTip": "Entities\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:09:12.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Entities\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:53:19.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251004210903_NewMigration2.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20251004210903_NewMigration2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251004210903_NewMigration2.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20251004210903_NewMigration2.cs",
+              "RelativeToolTip": "Migrations\\20251004210903_NewMigration2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:09:03.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251004210947_NewMigration3.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20251004210947_NewMigration3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251004210947_NewMigration3.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20251004210947_NewMigration3.cs",
+              "RelativeToolTip": "Migrations\\20251004210947_NewMigration3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:09:47.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251004210745_NewMigration1.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20251004210745_NewMigration1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251004210745_NewMigration1.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20251004210745_NewMigration1.cs",
+              "RelativeToolTip": "Migrations\\20251004210745_NewMigration1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:07:45.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Configurations\\ReviewConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\ReviewConfiguration.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Configurations\\ReviewConfiguration.cs",
+              "RelativeToolTip": "Configurations\\ReviewConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:50:57.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:06:18.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DishRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maxon\\AppData\\Local\\Temp\\47fd8883-98fd-477a-aeb1-c85e38d8140c_ConsoleApp1.zip.40c\\ConsoleApp1\\ConsoleApp1\\Repositories\\DishRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\47fd8883-98fd-477a-aeb1-c85e38d8140c_ConsoleApp1.zip.40c\\ConsoleApp1\\ConsoleApp1\\Repositories\\DishRepository.cs",
+              "ToolTip": "C:\\Users\\maxon\\AppData\\Local\\Temp\\47fd8883-98fd-477a-aeb1-c85e38d8140c_ConsoleApp1.zip.40c\\ConsoleApp1\\ConsoleApp1\\Repositories\\DishRepository.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\47fd8883-98fd-477a-aeb1-c85e38d8140c_ConsoleApp1.zip.40c\\ConsoleApp1\\ConsoleApp1\\Repositories\\DishRepository.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:00:39.272Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "20250927170354_InitialCreate1.cs",
               "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927170354_InitialCreate1.cs",
               "RelativeDocumentMoniker": "Migrations\\20250927170354_InitialCreate1.cs",
@@ -87,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "20250927170315_InitialCreate1.cs",
               "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927170315_InitialCreate1.cs",
               "RelativeDocumentMoniker": "Migrations\\20250927170315_InitialCreate1.cs",
@@ -95,12 +312,11 @@
               "RelativeToolTip": "Migrations\\20250927170315_InitialCreate1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T17:03:15.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T17:03:15.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 16,
               "Title": "20250927165928_InitialCreate1.cs",
               "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927165928_InitialCreate1.cs",
               "RelativeDocumentMoniker": "Migrations\\20250927165928_InitialCreate1.cs",
@@ -108,12 +324,11 @@
               "RelativeToolTip": "Migrations\\20250927165928_InitialCreate1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:59:28.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T16:59:28.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "20250927165701_InitialCreate1.cs",
               "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927165701_InitialCreate1.cs",
               "RelativeDocumentMoniker": "Migrations\\20250927165701_InitialCreate1.cs",
@@ -121,25 +336,11 @@
               "RelativeToolTip": "Migrations\\20250927165701_InitialCreate1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:57:01.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T16:57:01.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReviewConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Configurations\\ReviewConfiguration.cs",
-              "RelativeDocumentMoniker": "Configurations\\ReviewConfiguration.cs",
-              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Configurations\\ReviewConfiguration.cs",
-              "RelativeToolTip": "Configurations\\ReviewConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:50:57.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "TeacherConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Configurations\\TeacherConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\TeacherConfiguration.cs",
@@ -147,12 +348,11 @@
               "RelativeToolTip": "Configurations\\TeacherConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:54:09.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T16:54:09.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "CourseConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Configurations\\CourseConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\CourseConfiguration.cs",
@@ -160,12 +360,11 @@
               "RelativeToolTip": "Configurations\\CourseConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:53:42.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T16:53:42.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "Online\u0421oursesContext.cs",
               "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Online\u0421oursesContext.cs",
               "RelativeDocumentMoniker": "Online\u0421oursesContext.cs",
@@ -173,12 +372,11 @@
               "RelativeToolTip": "Online\u0421oursesContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAswBoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:40:43.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T16:40:43.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "StudentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Configurations\\StudentConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\StudentConfiguration.cs",
@@ -186,64 +384,11 @@
               "RelativeToolTip": "Configurations\\StudentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:50:54.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T16:50:54.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Teacher.cs",
-              "RelativeDocumentMoniker": "Entities\\Teacher.cs",
-              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Teacher.cs",
-              "RelativeToolTip": "Entities\\Teacher.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwDEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:53:19.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T18:06:18.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Review.cs",
-              "RelativeDocumentMoniker": "Entities\\Review.cs",
-              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Review.cs",
-              "RelativeToolTip": "Entities\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T18:08:31.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Entities\\Student.cs",
-              "RelativeToolTip": "Entities\\Student.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T18:09:12.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "20250927164516_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927164516_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250927164516_InitialCreate.cs",
@@ -251,12 +396,11 @@
               "RelativeToolTip": "Migrations\\20250927164516_InitialCreate.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:45:16.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T16:45:16.51Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "20250927164646_InitialCreate1.cs",
               "DocumentMoniker": "C:\\Users\\maxon\\source\\repos\\EntityFramework1\\Migrations\\20250927164646_InitialCreate1.cs",
               "RelativeDocumentMoniker": "Migrations\\20250927164646_InitialCreate1.cs",
@@ -264,8 +408,7 @@
               "RelativeToolTip": "Migrations\\20250927164646_InitialCreate1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T16:46:46.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T16:46:46.497Z"
             }
           ]
         }

@@ -27,7 +27,7 @@ namespace EntityFramework1.Entities
         /// </summary>
         public int StudentId { get; set; }
 
-        [Range(0, 100, ErrorMessage = "Рейтинг не может быть отрицательным или превышать 100!")]
+        //[Range(0, 100, ErrorMessage = "Рейтинг не может быть отрицательным или превышать 100!")]
         /// <summary>
         /// Рейтинг отзыва
         /// </summary>

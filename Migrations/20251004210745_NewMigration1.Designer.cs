@@ -4,6 +4,7 @@ using EntityFramework1;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EntityFramework1.Migrations
 {
     [DbContext(typeof(OnlineСoursesContext))]
-    partial class OnlineСoursesContextModelSnapshot : ModelSnapshot
+    [Migration("20251004210745_NewMigration1")]
+    partial class NewMigration1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -171,13 +174,13 @@ namespace EntityFramework1.Migrations
                     b.HasOne("EntityFramework1.Entities.Course", "Course")
                         .WithMany("Reviews")
                         .HasForeignKey("CourseId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.HasOne("EntityFramework1.Entities.Student", "Student")
                         .WithMany("Reviews")
                         .HasForeignKey("StudentId")
-                        .OnDelete(DeleteBehavior.Cascade)
+                        .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
 
                     b.Navigation("Course");

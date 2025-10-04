@@ -32,7 +32,7 @@ namespace EntityFramework1.Entities
         /// </summary>
         public int NumberOfHours { get; set; }
 
-        [Range(0, double.MaxValue, ErrorMessage = "Цена не может быть отрицательной!")]
+        //[Range(0, double.MaxValue, ErrorMessage = "Цена не может быть отрицательной!")]
         /// <summary>
         /// Стоимость курса
         /// </summary>
