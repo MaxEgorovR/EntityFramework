@@ -33,12 +33,12 @@ namespace EntityFramework1.Configurations
             // Связи
             builder.HasMany(c => c.Students)
                 .WithOne(s => s.Course)
-                .HasPrincipalKey(c => c.Id)
+                .HasPrincipalKey((System.Linq.Expressions.Expression<Func<Course, object?>>)(c => c.Id))
                 .HasForeignKey(s => s.CourseId);
 
             builder.HasMany(c => c.Teachers)
                 .WithOne(t => t.Course)
-                .HasPrincipalKey(c => c.Id)
+                .HasPrincipalKey((System.Linq.Expressions.Expression<Func<Course, object?>>)(c => c.Id))
                 .HasForeignKey(t => t.CourseId);
 
             builder.HasMany(c => c.Reviews)

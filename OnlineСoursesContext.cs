@@ -22,17 +22,17 @@ namespace EntityFramework1
         /// <summary>
         /// Таблица отзывов
         /// </summary>
-        public List<Review> Reviews { get; set; }
+        public List<Course> Reviews { get; set; }
 
         /// <summary>
         /// Таблица студентов
         /// </summary>
-        public List<Student> Students { get; set; }
+        public List<Course> Students { get; set; }
 
         /// <summary>
         /// Таблица пркподавателей
         /// </summary>
-        public List<Teacher> Teachers { get; set; }
+        public List<Course> Teachers { get; set; }
 
         private readonly string _connString = "Server=TRUEMALPREM\\SQLEXPRESS;Database=OnlineCoursesDb;Trusted_Connection=True;TrustServerCertificate=True;";
 

@@ -35,8 +35,8 @@ namespace EntityFramework1.Repositories
 
         public async Task<List<Review>> GetAllAsync()
         {
-            var dishes = await _db.Reviews.ToListAsync();
-            return dishes;
+            var reviews = await _db.Reviews.ToListAsync();
+            return reviews;
         }
 
         public async Task<Review> GetByIdAsync(int id)

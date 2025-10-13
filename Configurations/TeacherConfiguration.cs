@@ -9,9 +9,9 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace EntityFramework1.Configurations
 {
-    internal class TeacherConfiguration : IEntityTypeConfiguration<Teacher>
+    internal class TeacherConfiguration : IEntityTypeConfiguration<Course>
     {
-        public void Configure(EntityTypeBuilder<Teacher> builder)
+        public void Configure(EntityTypeBuilder<Course> builder)
         {
             // Свойства
             builder.HasKey(t  => t.Id);

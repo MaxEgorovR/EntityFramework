@@ -39,11 +39,11 @@ namespace EntityFramework1.Entities
         public double Price { get; set; }
 
         #region Навигационные свойства
-        public List<Teacher> Teachers { get; set; }
+        public List<Course> Teachers { get; set; }
 
-        public List<Student> Students { get; set; }
+        public List<Course> Students { get; set; }
 
-        public List<Review> Reviews { get; set; }
+        public List<Course> Reviews { get; set; }
         #endregion 
     }
 }

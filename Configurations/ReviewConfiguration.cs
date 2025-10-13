@@ -9,9 +9,9 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace EntityFramework1.Configurations
 {
-    public class ReviewConfiguration : IEntityTypeConfiguration<Review>
+    public class ReviewConfiguration : IEntityTypeConfiguration<Course>
     {
-        public void Configure(EntityTypeBuilder<Review> builder)
+        public void Configure(EntityTypeBuilder<Course> builder)
         {
             // Свойства
             builder.HasKey(r => r.Id);

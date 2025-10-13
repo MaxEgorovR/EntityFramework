@@ -49,7 +49,7 @@ namespace EntityFramework1.Entities
         #region Навигационные свойства
         public Course Course { get; set; }
 
-        public List<Review> Reviews { get; set; }
+        public List<Course> Reviews { get; set; }
         #endregion
     }
 }

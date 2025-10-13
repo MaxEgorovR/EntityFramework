@@ -41,7 +41,7 @@ namespace EntityFramework1.Entities
         #region Навигационные свойства
         public Course Course { get; set; }
 
-        public Student Student { get; set; }
+        public Course Student { get; set; }
         #endregion
     }
 }
